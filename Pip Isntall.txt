@@ -1,0 +1,23 @@
+1. To Create requirements:
+
+    	pip3 freeze > requirements.txt 
+
+
+2. pip Upgrade: 
+
+	python.exe -m pip install --upgrade pip
+
+
+3. To Install requirements:
+
+	pip install -U -r requirements.txt
+
+
+4. django rest_framework:
+
+	pip install djangorestframework
+
+
+5. django-shopping-cart 0.1
+
+	pip install django-shopping-cart
