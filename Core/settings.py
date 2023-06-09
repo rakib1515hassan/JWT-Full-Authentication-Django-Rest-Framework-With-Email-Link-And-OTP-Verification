@@ -125,11 +125,11 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = 'OTF Team <rakibdiuhassan@gmail.com>'
-# EMAIL_HOST_USER = "your@email.com"
-# EMAIL_HOST_PASSWORD = "your password"
 
-EMAIL_HOST_USER = "rakibdiuhassan@gmail.com"
-EMAIL_HOST_PASSWORD = "kczmycrfhjewqwqy"
+EMAIL_HOST_USER = "your@email.com"
+EMAIL_HOST_PASSWORD = "your password"
+
+
 
 #_______________________________________________________________________
 
