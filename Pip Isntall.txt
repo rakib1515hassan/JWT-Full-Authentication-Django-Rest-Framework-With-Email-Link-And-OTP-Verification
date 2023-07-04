@@ -12,12 +12,11 @@
 
 	pip install -U -r requirements.txt
 
+4. Dump All data
+	
+	python manage.py dumpdata > backup.json
+	py manage.py dumpdata > backup.json
 
-4. django rest_framework:
+5. Loaddat All data In Database
 
-	pip install djangorestframework
-
-
-5. django-shopping-cart 0.1
-
-	pip install django-shopping-cart
+	python manage.py loaddata backup.json

@@ -20,6 +20,7 @@
         ]
 
     ii) Some of Simple JWT’s behavior can be customized through settings variables in settings.py:
+    
         from datetime import timedelta
 
         SIMPLE_JWT = {

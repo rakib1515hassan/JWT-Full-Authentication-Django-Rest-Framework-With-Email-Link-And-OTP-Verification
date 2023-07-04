@@ -181,7 +181,7 @@ CORS_ALLOWED_ORIGINS = [
 
 
 
-PASSWORD_RESET_TIMEOUT = 300        # 900 Sec = 60 * 5 Min = 300 sec
+PASSWORD_RESET_TIMEOUT = 300        # 300 Sec = 60 * 5 Min = 300 sec
 
 
  

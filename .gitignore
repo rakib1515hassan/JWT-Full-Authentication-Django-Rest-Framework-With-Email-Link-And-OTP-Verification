@@ -3,7 +3,8 @@
 *.pot
 *.pyc
 __pycache__
-# media
+media
+# db.sqlite3
 
 # Backup files # 
 *.bak 
